@@ -48,7 +48,7 @@ vuejs提供了一个拿来即可使用的模板构建工具。配合NPM安装使
 
 安装vue-cli工具之后便使用 vue init webpack project  创建一个基于webpack的vue新项目, project为自己给项目取的名字.
 
- 继续运行 命令  cd  project 定位到 刚才创建的项目.(windows下面的命令提示行 使用的 'dir' 命令)
+ 继续运行 命令  cd  project 定位到 刚才创建的项目.
 
 运行 cnpm install  从网络上下载安装 项目需要使用的依赖等.
 
